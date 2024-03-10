@@ -1,0 +1,2 @@
+//CONTENTS NEEDS TO BE DEFINED IN CREATION CODE!!!
+orders = ["Hello!"];
